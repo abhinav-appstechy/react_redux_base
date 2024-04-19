@@ -1,8 +1,12 @@
-# React + Vite
+# Gym Fitness Project Using React, Redux and Tailwind 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is based on the Gym Fitness using React, Redux and Tailwind.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run Command
+After cloning the repo, first type command - `npm i`. After that, type command - `npm run dev`.
+
+## Requirements
+Before cloning the repo, make sure you have the latest Node version installed in your system
+
+
